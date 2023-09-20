@@ -27,7 +27,8 @@ NumPy, Pandas, Matplotlib,PyTorch
 
 ### سلنیوم در پایتون چیست؟
 <p>
- Selenium
+سلنیوم
+(Selenium)
 یک کتابخانه محبوب برنامه‌نویسی است که برای کنترل مرورگرها استفاده می‌شود. با استفاده از 
 Selenium
  می‌توانید برنامه‌ها و اسکریپت‌هایی را بنویسید که تعامل مستقیم با مرورگرها مانند 
@@ -35,7 +36,8 @@ Chrome، Firefox، Safari
 .و... داشته باشند.
 </p>
 <p>
- Selenium
+سلنیوم
+(Selenium)
 امکاناتی را برای مدیریت کامل مرورگر فراهم می‌کند و اجازه می‌دهد تا به صورت تعاملی از طریق 
 WebDriver
 با صفحات وب کار کنید و فعالیت‌های مرورگر را از طریق کد کنترل کنید و مطمئن شوید که آنها به درستی بارگیری می‌شوند و عملکرد صحیحی دارند. <br>
@@ -43,6 +45,8 @@ WebDriver
 Selenium
 
 می‌توانیم اطلاعات مورد نیاز خود را از صفحات وب استخراج کنیم که در استخراج و جمع‌آوری داده‌ها، جستجوی اطلاعات و… کاربرد دارد. <br>
-[منبع](https://faradars.org/courses/get-to-know-the-selenium-package-in-python-fvit98051s10)
+[منبع](https://faradars.org/courses/get-to-know-the-selenium-package-in-python-fvit98051s10) <br>
+برای یادگیری این کتابخانه میتوانید از [این دوره](https://faradars.org/courses/get-to-know-the-selenium-package-in-python-fvit98051s10) استفاده کنید:
+
 </p>
 
