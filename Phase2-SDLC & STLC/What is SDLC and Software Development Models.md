@@ -21,8 +21,32 @@
 
 7.**نگهداری (maintenance)**: <br>
 پس از انتشار، ممکن است کاربران در استفاده از نرم‌افزار به مشکلاتی برخورد کنند. از آنجایی که تیم محصول موظف است نرم‌افزاری  بی‌نقض ارائه کند در صورت بروز هرگونه مشکل احتمالی موظف است مشکل پیش آمده را برطرف کند. <br>
+</p>
 
 ![Sofware Development Lifecycle](https://www.weetechsolution.com/wp-content/uploads/2022/12/Software-Development-Life-Cycle.png) <br>
+
+## انواع روش‌های توسعه نرم‌افزار
+
+
+<p>
+مراحل گفته شده در بالا به method‌های مختلفی قابل پیاده‌سازی هستند مانند( برای مطالعه بیشتر روی هر عنوان کلیک کنید):
+
+- [مدل آبشاری (waterfall)](https://cdn15.git.ir/03/Udemy%20SDLC%202022%20Software%20Development%20Life%20Cycle%20SDLC-git.ir/022-What%20is%20Waterfall%20Model-git.ir.mp4)
+- [مدل افزایشی (incremental)](https://cdn15.git.ir/03/Udemy%20SDLC%202022%20Software%20Development%20Life%20Cycle%20SDLC-git.ir/025-What%20is%20Incremental%20Model-git.ir.mp4)
+- [مدل تکرارپذیر (iterative)](https://cdn15.git.ir/03/Udemy%20SDLC%202022%20Software%20Development%20Life%20Cycle%20SDLC-git.ir/028-What%20is%20Iterative%20Model-git.ir.mp4)
+- [مدل V](https://cdn15.git.ir/03/Udemy%20SDLC%202022%20Software%20Development%20Life%20Cycle%20SDLC-git.ir/031-What%20is%20V%20Model-git.ir.mp4)
+- [مدل چابک (Agile)](https://cdn15.git.ir/03/Udemy%20SDLC%202022%20Software%20Development%20Life%20Cycle%20SDLC-git.ir/038-What%20is%20Agile%20Model-git.ir.mp4)
+</p>
+<p>
+
+  نکته: متدولوژی چابک (Agile) پرکاربردترین روش در توسعه نرم‌افزار است. در 
+  [این لینک](https://agilemanifesto.org/iso/pr/manifesto.html)
+  می‌توانید اصول چابک را مطالعه کنید.
+</p>
+
+
+
+
 
 
 
