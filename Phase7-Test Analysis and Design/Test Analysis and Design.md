@@ -44,5 +44,7 @@ test case
 در این روش نقاط مرزی هر بخش و اولین مقادیر غیر قابل قبول از هر سمت بررسی می‌شوند. مثلا در عکس زیر مقادیر مرزی ما 1 و 255 است ولی مقادیر 0 و  256 هم به عنوان اولین مقادیر غیر قابل قبول، از هر دو سمت، بررسی می‌شوند. 
 
 ![Valid Area in Test](https://www.stickyminds.com/sites/default/files/shared/2018-10-29%20JoshuaGiller%20Using%20Equivalence%20Partitioning%20and%20Boundary%20Value%20Analysis%20in%20Black%20Box%20Testing%20image%201.png)
+
+
 ![2 value BVA](https://www.stickyminds.com/sites/default/files/shared/2018-10-29%20JoshuaGiller%20Using%20Equivalence%20Partitioning%20and%20Boundary%20Value%20Analysis%20in%20Black%20Box%20Testing%20image%202.png)
 </p>
