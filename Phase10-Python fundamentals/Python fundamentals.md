@@ -44,7 +44,9 @@ WebDriver
 همچنین با استفاده از 
 Selenium
 می‌توانیم اطلاعات مورد نیاز خود را از صفحات وب استخراج کنیم که در استخراج و جمع‌آوری داده‌ها، جستجوی اطلاعات و… کاربرد دارد. <br>
-برای یادگیری این کتابخانه میتوانید از [این دوره](https://faradars.org/courses/get-to-know-the-selenium-package-in-python-fvit98051s10) استفاده کنید:
+برای یادگیری این کتابخانه میتوانید از 
 
+[این دوره](https://drive.google.com/file/d/1NnVwLjBs3fQ2uXCYpCwfKvETyrYWSkSR/view?pli=1/)
+استفاده کنید:
 </p>
 
