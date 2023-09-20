@@ -52,6 +52,9 @@ test case
 
 در این روش، نقاط مرزی هر بخش، اولین مقدار  پس از آن‌ها و اولین مقدار  غیر قابل قبول از هر سمت بررسی می‌شوند. مثلا در عکس زیر مقادیر مرزی ما 1 و 255 است که مقادیر قابل قبول هستند، مقادیر 2 و 254 هم به عنوان مقادیر بعدی مورد بررسی قرار می‌گیرند همچنین مقادیر 0 و  256 هم به عنوان  مقادیر غیر قابل قبول از هر دو سمت، بررسی می‌شوند.
 
+![2 value BVA](https://www.stickyminds.com/sites/default/files/shared/2018-10-29%20JoshuaGiller%20Using%20Equivalence%20Partitioning%20and%20Boundary%20Value%20Analysis%20in%20Black%20Box%20Testing%20image%203.png)
+
+
 ### Decision Table Testing &  State Transition Testing:
 
 در این مدل تست ما برپایه دو مفهوم 
