@@ -17,7 +17,7 @@
 برای اطمینان از عملکرد صحیح و تضمین کیفیت نرم‌افزاردر محیط‌های مختلف، نیاز است قبل از انتشار ، تست‌هایی روی نرم‌افزار انجام شود. بسته به نوع نرم‌افزار  و نحوه استفاده کاربر،  تست‌های انجام شده می تواند دستی، اتوماتیک یا تلفیقی از این دو مورد باشد. همچنین این تست‌ها باید در محیط شبیه‌سازی شده انجام شوند.
 6. **نگهداری (maintenance)**: <br>
 پس از انتشار، ممکن است کاربران در استفاده از نرم‌افزار به مشکلاتی برخورد کنند. از آنجایی که تیم محصول موظف است نرم‌افزاری  بی‌نقض ارائه کند در صورت بروز هرگونه مشکل احتمالی موظف است مشکل پیش آمده را برطرف کند. <br>
-![Sofware Development Lifecycle](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.weetechsolution.com%2Fblog%2Fsoftware-development-life-cycle&psig=AOvVaw0cLM5mfSId2V2XQLWhtNkO&ust=1695281903865000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqGAoTCKjXp9nXuIEDFQAAAAAdAAAAABCOAQ) <br>
+![Sofware Development Lifecycle](https://www.weetechsolution.com/wp-content/uploads/2022/12/Software-Development-Life-Cycle.png) <br>
 
 
 
