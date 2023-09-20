@@ -85,6 +85,11 @@ BDD
 
 ![Continuous Testing in DevOps](https://www.softwaretestinghelp.com/wp-content/qa/uploads/2019/11/Continuous-Testing-In-DevOps.png)
 
+#### تاثیر جلسات Retrospective در بهبود فرآیندها
+
+<p>
+یکی از اهداف تست این است که با بررسی فرآیندهای انجام شده، آنها را بهبود دهیم . یکی از بهترین ابزار ها برای این کار برگزاری جلسات Retrospectives است. در این جلسات با بررسی بازه‌های زمانی مشخص، مشکلات پیش آمده را بررسی می‌کنیم و برای بهبود آن‌ها postmortem برگزار می‌کنیم. 
+</p>
 
 
 
