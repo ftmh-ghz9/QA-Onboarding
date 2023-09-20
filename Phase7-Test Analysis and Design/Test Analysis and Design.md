@@ -83,7 +83,7 @@ ATM
 
 ![State Transion ATM Sample](https://www.getsoftwareservice.com/wp-content/uploads/2016/08/State-Transition.png) <br>
 
-در این روش مقدار پوشش تست به این صورت  تعریف می‌شود:
+در این روش مقدار پوشش تست با روش های زیر تعریف می‌شود:
 
 - all states coverage
 - valid transitions coverage
