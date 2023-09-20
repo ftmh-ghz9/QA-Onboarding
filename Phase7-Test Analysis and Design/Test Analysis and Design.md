@@ -81,6 +81,12 @@ event
 ATM
 را نشان می‌دهد. 
 
-![State Transion ATM Sample](https://www.getsoftwareservice.com/wp-content/uploads/2016/08/State-Transition.png)
+![State Transion ATM Sample](https://www.getsoftwareservice.com/wp-content/uploads/2016/08/State-Transition.png) <br>
+
+در این روش مقدار پوشش تست به این صورت  تعریف می‌شود:
+
+- all states coverage
+- valid transitions coverage
+- all transitions coverage
 
 </p>
