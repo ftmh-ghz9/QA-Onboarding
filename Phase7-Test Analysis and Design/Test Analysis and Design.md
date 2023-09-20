@@ -81,6 +81,6 @@ event
 ATM
 را نشان می‌دهد. 
 
-
+![State Transion ATM Sample](https://www.getsoftwareservice.com/wp-content/uploads/2016/08/State-Transition.png)
 
 </p>
