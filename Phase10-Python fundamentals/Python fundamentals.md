@@ -48,5 +48,8 @@ Selenium
 
 [این دوره](https://drive.google.com/file/d/1NnVwLjBs3fQ2uXCYpCwfKvETyrYWSkSR/view?pli=1/)
 استفاده کنید:
+
+> **Important**
+> ویدئوهای هر بخش را به طور کامل مشاهده کنید 
 </p>
 
