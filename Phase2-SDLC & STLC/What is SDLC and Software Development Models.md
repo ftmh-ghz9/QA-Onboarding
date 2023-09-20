@@ -107,7 +107,7 @@ BDD
 
 </p>
 
-<img src="https://www.bitstudios.com/wp-content/uploads/2022/09/different-levels-of-software-testing.jpg.webp" alt="Levels of softwre testing" height="500px">
+<img src="https://www.bitstudios.com/wp-content/uploads/2022/09/different-levels-of-software-testing.jpg.webp" alt="Levels of softwre testing" width="500px">
 
 
 
