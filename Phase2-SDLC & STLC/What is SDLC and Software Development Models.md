@@ -91,8 +91,23 @@ BDD
 یکی از اهداف تست این است که با بررسی فرآیندهای انجام شده، آنها را بهبود دهیم . یکی از بهترین ابزار ها برای این کار برگزاری جلسات Retrospectives است. در این جلسات با بررسی بازه‌های زمانی مشخص، مشکلات پیش آمده را بررسی می‌کنیم و برای بهبود آن‌ها postmortem برگزار می‌کنیم. 
 </p>
 
+## Test Levels
 
+<p>
+مراحل تست با توجه به کامپوننت‌ها و روابط بین آن‌ها تعریف می‌شوند که این مراحل از کوچک‌ترین جزء تا لایه‌های بالایی محصول را شامل می‌شوند.
 
+- [Unit Testing](https://www.techtarget.com/searchsoftwarequality/definition/unit-testing#:~:text=Unit%20testing%20is%20a%20software,tests%20during%20the%20development%20process.): <br> 
+این نوع تست تمرکز بر تست اجزا به صورت ایزوله دارد.
+- Integration testing: <br>
+این نوع تست تمرکز بر ارتباط بین اجزا دارد
+- System testing: <br>
+این نوع تست تمرکز بر رفتار کلی سیستم دارد که شامل functional testing و مشخصات کیفی می‌شود.
+- Acceptance testing: <br>
+این نوع تست تمرکز بر نوع استفاده کاربر از سیستم و رضایتش از نرم‌افزار و آمادگی نرم‌افزار برای deploy دارد.
+
+</p>
+
+![Levels of softwre testing](https://www.bitstudios.com/wp-content/uploads/2022/09/different-levels-of-software-testing.jpg.webp)
 
 
 
