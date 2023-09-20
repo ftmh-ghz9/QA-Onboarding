@@ -77,6 +77,14 @@ BDD
 
 </p>
 
+###  DevOps و تست 
+
+<p>
+هدف چرخه DevOps نزدیک کردن فرآیند پیاده‌سازی به فرآیند deploy است. در این  راستا، عملکرد چابک تست، می‌تواند این هدف را به واقعیت نزدیک کند.
+</p>
+
+![Continuous Testing in DevOps](https://www.softwaretestinghelp.com/wp-content/qa/uploads/2019/11/Continuous-Testing-In-DevOps.png)
+
 
 
 
