@@ -140,5 +140,28 @@ flex
 
 </p>
 
+### CSS
+
+<p>
+
+کلمه 
+CSS
+مخفف 
+"Cascading Style Sheets"
+است. 
+CSS
+می‌تواند به طرز بهینه ای صفحه آرایی 
+(Page Layout)
+را تعریف کند و به صورت ساده آن را  پیاده‌سازی کند.
+در ادامه میتوانید  ساختار و نحوه نوشتار 
+CSS را از این لینک یاد بگیرید.
+در ادامه در پروژه تعریف شده از تمامی آیتم‌های گفته شده در بالا استفاده می‌شود ، پس حتما تمام لینک‌ها را قبل از انجام پروژه خونده باشید.
+
+</p>
+
+<div style="text-align:center">
+    <img src="https://www.bu.edu/lernet/artemis/years/2020/projects/FinalPresentations/HTML/csscode.jpg" alt="HTML CSS" width="700px">
+</div>
+
 > **Important**
 > لینک های هر بخش را به طور کامل مطالعه کنید.
