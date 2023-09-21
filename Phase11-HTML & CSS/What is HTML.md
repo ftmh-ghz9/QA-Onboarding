@@ -85,3 +85,60 @@ attribute
 ها را بیشتر یاد بگیرید و مثال‌های آن را مشاهده کنید.
 
 </p>
+
+<div style="text-align:center">
+    <img src="https://web-dev.imgix.net/image/cGQxYFGJrUUaUZyWhyt9yo5gHhs1/17yQeLEUX6s88IbDJreQ.png" alt="HTML Attribute" width="850px">
+</div>
+
+#### Class
+
+<p>
+
+از این 
+attribute
+برای تعریف یک کلاس برای یک تگ خاص استفاده می‌شود که در این کلاس می‌توان ویژگی‌های ظاهری زیادی را مشخص کرد. می‌توان یک کلاس را برای چندین تگ استفاده کرد. همچنین میتوان از کلاسها در کدهای 
+JavaScript
+نیز استفاده کرد.<br>
+از طریق [این لینک](https://www.w3schools.com/html/html_classes.asp) می توانید در مورد نحوه تعریف و استفاده از کلاس‌ها را یاد بگیرید.
+
+</p>
+
+<div style="text-align:center">
+    <img src="https://dotnettutorials.net/wp-content/uploads/2021/10/word-image-146.png" alt="HTML Class" width="700px">
+</div>
+
+#### ID
+
+<p>
+
+این 
+attribute
+یک شناسه مشخص یکتا برای یک تگ تعریف می‌کند. در یک صفحه وب نمی توان دو 
+ID
+مشابه داشت. همچنین برای این نوع 
+attribute
+میتوان ویژگی‌های ظاهری مشخص کرد. <br>
+در [این لینک](https://www.w3schools.com/html/html_id.asp) میتونید توضیحات بیشتر در مورد نحوه نوشتار 
+id
+ را بخوانید.
+
+</p>
+
+### شناخت ساختار و چارچوب چینش صفحه HTML
+
+<p>
+
+چینش صفحه در 
+HTML
+از ساختار خاصی که شامل انواع 
+grid
+ها و 
+flex
+ها است پیروی میکند.
+از طریق [این لینک](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) می‌توانید به طور کامل نحوه چینش‌ و تعاریف آن‌ها را یاد بگیرید. <br>
+با استفاده از این نوع چینش صفحه می‌توانید موارد خواسته شده در پروژه صفحه وب را انجام دهید.
+
+</p>
+
+> **Important**
+> لینک های هر بخش را به طور کامل مطالعه کنید.
