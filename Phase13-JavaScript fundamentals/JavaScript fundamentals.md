@@ -22,7 +22,9 @@ Hello JavaScript
 </p>
 
 <p class="monospace">
-document.getElementById("demo").innerHTML = "Hello JavaScript";
+
+```document.getElementById("demo").innerHTML = "Hello JavaScript";```
+
 </p>
 
 
