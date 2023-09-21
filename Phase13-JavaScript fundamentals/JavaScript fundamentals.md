@@ -10,21 +10,24 @@ JavaScript
 
  <p>
 
- با استفاده از این زبان می‌توان المان‌های 
- HTML
+با استفاده از این زبان می‌توان المان‌های 
+HTML
 را تغییر داد. 
 مثلا کد زیر یک المان با آیدی 
 demo
 را پیدا می‌کند و محتوای آن را به 
 Hello JavaScript
- تغییر می دهد.
+تغییر می دهد.
 
- ```document.getElementById("demo").innerHTML = "Hello JavaScript";```
- 
- </p>
+</p>
 
- <p>
- 
+<p class="monospace">
+document.getElementById("demo").innerHTML = "Hello JavaScript";
+</p>
+
+
+<p>
+
  همچنین کد جاوا اسکریپت می‌تواند صفت‌های 
 (Attributes)
 المان 
