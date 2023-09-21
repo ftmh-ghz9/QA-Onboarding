@@ -23,3 +23,7 @@
 می‌توانید برخی از دستورات کاربردی لینوکس مانند ls, cd. cp. mkdir و دستورات بیشتر را یاد بگیرید.
 
 </p>
+
+<div style="text-align:center">
+    <img src="https://ubuntucommunity.s3.dualstack.us-east-2.amazonaws.com/original/2X/5/5249bad7f0bb536adceb8a9381c7366054546763.png" alt="Linux Kernel" width="800px">
+</div>
