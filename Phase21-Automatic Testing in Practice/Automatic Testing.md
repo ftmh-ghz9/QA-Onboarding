@@ -19,3 +19,91 @@ Smoke Test
 5. **نگهداری کدها**: اسکریپت‌های تست خودکار در صورت نیاز با نسخه‌های جدیدتر اصلاح و به‌روز می‌شوند.
 
 </p>
+
+<p>
+
+انواع تست‌های خودکار شامل موارد زیر است:
+- [Acceptance tests](https://www.techtarget.com/searchsoftwarequality/definition/acceptance-test#:~:text=Acceptance%20testing%20is%20a%20quality,testing%20or%20end%2Duser%20testing.)
+- [API tests](https://www.techtarget.com/searchapparchitecture/definition/API-testing)
+- [Integration tests](https://www.techtarget.com/searchsoftwarequality/definition/integration-testing)
+- [Regression tests](https://www.browserstack.com/guide/regression-testing#:~:text=Regression%20Testing%20is%20a%20type,the%20introduction%20of%20new%20changes.)
+- [Smoke tests](https://www.techtarget.com/searchsoftwarequality/definition/smoke-testing#:~:text=Smoke%20testing%2C%20also%20called%20build,not%20delve%20into%20finer%20details.)
+- [System tests](https://www.techtarget.com/searchsoftwarequality/definition/system-testing#:~:text=System%20testing%2C%20also%20referred%20to,full%2C%20integrated%20system%20or%20application.)
+- [Unit tests](https://en.wikipedia.org/wiki/Unit_testing)
+- [User interface (UI) tests](https://www.browserstack.com/guide/ui-testing-guide)
+
+</p>
+
+<div style="text-align:center">
+    <img src="https://cdn.ttgtmedia.com/rms/onlineimages/software_quality-test_types-f.png" alt="Load Test vs. Stress Test" width="700px">
+</div>
+
+<p>
+
+فریمورک ([چیست؟](https://www.codecademy.com/resources/blog/what-is-a-framework/))های مرسوم تست خودکار به شرح زیر هستند:
+- [Data-Driven Frameworks](https://testsigma.com/data-driven-testing)
+- [Keyword-driven Frameworks](https://www.guru99.com/keyword-driven-testing.html) 
+- [linear scripting framework](https://www.softwaretestingmaterial.com/types-test-automation-frameworks/#Linear-Scripting-Framework)
+- [modular testing framework](https://www.softwaretestingmaterial.com/types-test-automation-frameworks/#Modular-Testing-Framework)
+
+فریمورک اسکریپت خطی برای برنامه‌های کاربردی کوچک مناسب است، زیرا استفاده از یک اسکریپت آزمایشی را با برنامه‌ریزی کمتر امکان پذیر می‌کند. اما این اسکریپت‌ها قابل استفاده مجدد نیست. فریمورک تست ماژولار، اسکریپت‌هایی را به‌عنوان تست‌های کوچک و مستقل ایجاد می‌کند تا افزونگی را کاهش دهد، اما این فرآیند معمولاً زمان بیشتری نیاز دارد.
+با فریمورک‌های مبتنی بر داده 
+(Data-Driven)
+، می‌توان اسکریپت‌هایی نوشت که برای مجموعه‌های داده‌های متعدد کار کند. این نوع فریمورک‌ها پوشش گسترده‌تری را با آزمایش‌های کمتر، نسبت به فریمورک‌های ماژولار، ارائه می‌دهند. <br>
+ابزارها و فریمورک‌های تست خودکار شامل 
+Selenium،
+Robot Framework
+و 
+Cypress
+هستند.
+[Robot Framework](https://robotframework.org/)
+به تسترها کمک می‌کند تا تست‌های 
+User acceptance،
+Performance,
+System acceptance
+را برای دستگاه‌های 
+Android
+توسعه دهند.
+Cypress
+تست‌های 
+end-to-end،
+Integration
+و 
+Unit
+را در یک مرورگر پوشش می‌دهد.
+
+</p>
+
+### Xray
+
+<p>
+
+Xray
+یک ابزار مدیریت تست کامل برای 
+Jira
+است. این یک برنامه با امکانات کامل است که برای اجرا به نرم افزار دیگری نیاز ندارد.
+از کل چرخه عمر تست پشتیبانی می‌کند:
+-  برنامه ریزی تست
+- طراحی تست
+- اجرای تست 
+- گزارش تست
+
+Xray
+این کار را با استفاده از ایشو تایپ‌های 
+Jira
+انجام می‌دهد، بنابراین می‌توانید از تمام مزایای 
+Jira
+که استفاده کنید.
+هدف 
+Xray
+کمک به شرکت‌ها در بهبود کیفیت سیستم‌های خود از طریق تست موثر و کارآمد است. به همین دلیل است که 
+Xray
+در حال حاضر از تست‌های دستی و خودکار، از جمله 
+BDD
+(مانند: 
+Cucumber،
+SpecFlow،
+Serenity BDD)
+پشتیبانی می‌کند.
+
+</p>
