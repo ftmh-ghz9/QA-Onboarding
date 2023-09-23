@@ -39,6 +39,10 @@ GitHub,
     <img src="https://www.cypress.io/cypress_logo_social.png" alt="Cypress" width="600px">
 </div>
 
+> **Important**
+> لینک های هر بخش را به طور کامل مطالعه کنید. همچنین ویدئو های هر بخش را به طور کامل مشاهده کنید.
+
+
 ## پیاده سازی یک سناریو تست با Cypress
 <p>
 
